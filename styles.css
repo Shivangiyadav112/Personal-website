@@ -270,7 +270,7 @@ nav ul li a:hover::after{
         background-image: url(images/contact.png);
         background-size: cover;
         background-position: center;
-        margin-bottom: 20px;
+        
     
 }
 .roww{
@@ -389,7 +389,7 @@ nav .fa-solid{
     .about-col-1 img{
         margin: auto;
         display: block;
-        width: 250px
+        width: 200px
     }
     .about-col-1 ,.about-col-2{
         flex-basis: 100%;
